@@ -1,2 +1,4 @@
 # Tetris
-Classic Tetris game
+A classic Tetris game
+
+## Screenshots
