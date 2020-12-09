@@ -1,8 +1,8 @@
 # Tetris
-A classic Tetris game
+A classic Tetris game written in Python3, in Linux environment.
 
 # How to play
-Copy tetris, tetris_model and tetris_piece files into a custom directory. In linux shell run:
+Copy tetris, tetris_model and tetris_piece files into a custom directory. In Linux shell run:
 
 ```shell
 python tetris.py
