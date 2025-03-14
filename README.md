@@ -1,7 +1,7 @@
 # Tetris
 > A classic game implemented in Python. 
 
-![](gameplay.mp4)
+![](gameplay.gif)
 
 ## Installation
 
@@ -14,9 +14,12 @@ python game.py
 
 ## Meta
 
-Eugeny Khanchin – hemenian@gmail.com
+Eugeny Khanchin
+
+hemenian@gmail.com
 
 [My LinkedIn](https://www.linkedin.com/in/eugenykhanchin/)
+
 [My github](https://github.com/eKhanchin/)
 
 
